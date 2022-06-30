@@ -8,7 +8,7 @@ TaskDom.addEventListener('keyup',function(e){
 
     if (e.keyCode == 13 ) { 
         newElement()
-    } // to add somethink with enter key
+    } // to add something with enter key
     
    
 });
